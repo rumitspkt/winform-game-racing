@@ -1,0 +1,10 @@
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\bin\Debug\Race.exe.config
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\bin\Debug\Race.exe
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\bin\Debug\Race.pdb
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.csprojResolveAssemblyReference.cache
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.Form0.resources
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.Form1.resources
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.Properties.Resources.resources
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.csproj.GenerateResource.Cache
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.exe
+E:\CNTT SPKT\Windows\ProjectVS\RACE-master\Race\obj\Debug\Race.pdb
